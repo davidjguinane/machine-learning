@@ -1,5 +1,6 @@
 .Python
-u-env
+venv
+venv/
 bin
 lib
 include
